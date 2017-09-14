@@ -1,0 +1,6 @@
+C:\Core\git\MobileCoach\MobileCoach.UnitTest\bin\Debug\MobileCoach.UnitTest.dll
+C:\Core\git\MobileCoach\MobileCoach.UnitTest\bin\Debug\MobileCoach.UnitTest.pdb
+C:\Core\git\MobileCoach\MobileCoach.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Core\git\MobileCoach\MobileCoach.UnitTest\obj\Debug\MobileCoach.UnitTest.dll
+C:\Core\git\MobileCoach\MobileCoach.UnitTest\obj\Debug\MobileCoach.UnitTest.pdb
+C:\Core\git\MobileCoach\MobileCoach.UnitTest\obj\Debug\MobileCoach.UnitTest.csprojResolveAssemblyReference.cache

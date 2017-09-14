@@ -1,0 +1,10 @@
+C:\Core\git\MobileCoach\MobileCoach.ClientTest\bin\Debug\MobileCoach.ClientTest.exe.config
+C:\Core\git\MobileCoach\MobileCoach.ClientTest\bin\Debug\MobileCoach.ClientTest.exe
+C:\Core\git\MobileCoach\MobileCoach.ClientTest\bin\Debug\MobileCoach.ClientTest.pdb
+C:\Core\git\MobileCoach\MobileCoach.ClientTest\obj\Debug\MobileCoach.ClientTest.exe
+C:\Core\git\MobileCoach\MobileCoach.ClientTest\obj\Debug\MobileCoach.ClientTest.pdb
+C:\Core\git\MobileCoach\MobileCoach.ClientTest\obj\Debug\MobileCoach.ClientTest.csprojResolveAssemblyReference.cache
+C:\Core\git\MobileCoach\MobileCoach.ClientTest\bin\Debug\MobileCoach.Client.dll
+C:\Core\git\MobileCoach\MobileCoach.ClientTest\bin\Debug\Newtonsoft.Json.dll
+C:\Core\git\MobileCoach\MobileCoach.ClientTest\bin\Debug\MobileCoach.Client.pdb
+C:\Core\git\MobileCoach\MobileCoach.ClientTest\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,6 @@
+C:\Core\git\MobileCoach\MobileCoach.Client\bin\Debug\MobileCoach.Client.dll
+C:\Core\git\MobileCoach\MobileCoach.Client\bin\Debug\MobileCoach.Client.pdb
+C:\Core\git\MobileCoach\MobileCoach.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Core\git\MobileCoach\MobileCoach.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Core\git\MobileCoach\MobileCoach.Client\obj\Debug\MobileCoach.Client.dll
+C:\Core\git\MobileCoach\MobileCoach.Client\obj\Debug\MobileCoach.Client.pdb
