@@ -13,8 +13,8 @@ namespace MobileCoach.ClientTest
             MobileCoach.Client.MobileCoachConfig qaConfig = new Client.MobileCoachConfig() {
                  CoachId=172,
                  Endpoint= "https://qa.mobilecoach.com/api/v1/coaches/{0}",
-                 Token= "jBiZnJxtzrEN4cvuFI0fQKP4HIphWKGlWyWX",
-                 Secret= "nnGnlg2B+ZgvcmDbJpOOKmY78dLyuv3V8Vdq"
+                 Token= "--token--",
+                 Secret= "--secret--"
             };
 
             MobileCoach.Client.MobileCoachClient qaClient = new Client.MobileCoachClient(qaConfig);
